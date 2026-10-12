@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 I'm a Data Analytics Enthusiast with a background in Marketing. I love turning data into actionable insights and using technologies to tackle real-world problems. Whether it's uncovering hidden patterns or creating innovative models, I enjoy seeking opportunities to the limitless.
 
-**🔍 What I'm Working On**: Sharpening my skills in Data Analytics, SQL, Python, Data Visualization, and Business Intelligence.
+**🔍 What I'm Working On**: Sharpening my skills in Data Analytics, SQL, Python, Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization, and Business Intelligence.
 
 **🤝 Looking to Collaborate**: I'm excited to work on projects that deliver tangible data-driven solutions and drive innovation.
 
